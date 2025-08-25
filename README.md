@@ -10,7 +10,7 @@ This project is a Sales Data Exploration exercise performed entirely in SQL, usi
 - Analyse order timelines and sales ranges
 - Calculate KPIs and segment data (countries, genders, top customers/products)
 
-<img src="outputs/key_metrics.png" alt="Key Metrics" width="600">
+<img src="https://imgur.com/4UpachU.png" alt="Key Metrics" width="600">
 
 ## About the Data
 
@@ -37,7 +37,7 @@ Calculated total sales, orders, customers, products, and average price using agg
 
 Found first and last order dates and calculated the span of sales activity in months and years.
 
-<img src="outputs/sales_timeline.png" alt="Sales Timeline" width="600">
+<img src="https://imgur.com/25r1gnr.png" alt="Sales Timeline" width="600">
 
 ### 4. Product & Customer Insights
 
@@ -45,15 +45,18 @@ Found first and last order dates and calculated the span of sales activity in mo
 
 - 5 least-performing products
 
-- Customer distribution by country and gender
 
-<img src="outputs/top_products.png" alt="Top Products" width="600"> <img src="outputs/customers_by_country.png" alt="Customers by Country" width="600">
+
+<img src="https://imgur.com/EMrDc1j.png" alt="Top Products" width="600"> 
+
+- Customer distribution by country and gender
+<img src="https://imgur.com/WM10tMP.png" alt="Customers by Country" width="600">
 
 ### 5. High-Value Customers
 
 - Identified top 10 customers by total revenue and those with fewest orders.
 
-<img src="outputs/top_customers.png" alt="Top Customers" width="600">
+<img src="https://imgur.com/QdwLmaz.png" alt="Top Customers" width="600">
 
 ## Tools Used
 
