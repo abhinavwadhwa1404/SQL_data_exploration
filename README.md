@@ -16,10 +16,19 @@ This project is a Sales Data Exploration exercise performed entirely in SQL, usi
 
 ### The dataset simulates a retail business scenario and contains the following tables:
 
-- dim_customers – Customer demographics (first name, last name, gender, country, birthdate)
-- dim_products – Product details (category, subcategory, product name, cost, price)
-- fact_sales – Sales transactions (order number, order date, quantity, sales amount)
-Note: The data is sample/anonymized and created for learning purposes.
+- **`dim_customers`** – Customer demographics (first name, last name, gender, country, birthdate)  
+  File: [`gold.dim_customers.csv`](gold.dim_customers.csv)
+
+- **`dim_products`** – Product details (category, subcategory, product name, cost, price)  
+  File: [`gold.dim_products.csv`](gold.dim_products.csv)
+
+- **`fact_sales`** – Sales transactions (order number, order date, quantity, sales amount)  
+  File: [`gold.fact_sales.csv`](gold.fact_sales.csv)
+
+## **Scripts**
+
+- **Main SQL Project:** [`Portfolio Project.sql`](Portfolio%20Project.sql)  
+  This script contains all queries for schema exploration, dimension analysis, KPI calculation, and ranking.
 
 ## Project Walkthrough
 ### 1. Understanding the Schema
